@@ -1,9 +1,6 @@
 Pemrograman Berorientasi Objek
-1. 	NIM  : 1904515
-	Nama : Zahra Nur Hanifa
-
-2. 	NIM  : 1906322
-	Nama : Annisa Putri Sulistia
+1. Annisa Putri Sulistia (1906322)
+2. Zahra Nur Hanifa (1904515)
 
 Class Item
 - Merupakan class parent dari class cincin, pintu, roti, dan kunci
