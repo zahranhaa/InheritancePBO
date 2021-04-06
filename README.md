@@ -1,4 +1,4 @@
-Pemrograman Berorientasi Objek
+Pemrograman Berorientasi Objek - Pilkom A 2019
 1. Annisa Putri Sulistia (1906322)
 2. Zahra Nur Hanifa (1904515)
 
